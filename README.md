@@ -1,5 +1,6 @@
 # Jumping Duck
 A simple project to present the principles of clean architecture.
+![logo](https://rawcdn.githack.com/koualsky/jumping-duck/develop/jumping-duck.png)
 
 # Ticket's
 
