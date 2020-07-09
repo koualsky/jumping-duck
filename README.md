@@ -1,5 +1,5 @@
 # Jumping Duck
-A simple project showing the principles of clean architecture.
+A simple project to present the principles of clean architecture.
 
 # Ticket's
 
